@@ -1,0 +1,19 @@
+.titleScreen {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    color: white;
+    align-items: center;
+       
+
+    &__paragraph {
+     margin: 50px
+    }
+
+    &__arrow {
+       width: 30px; 
+      
+       
+    }
+}
+

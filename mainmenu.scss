@@ -1,0 +1,35 @@
+@import "reset.scss";
+
+body {
+    background-color: #49BCF1;
+    background-image: url("./images/image-header.jpg");
+}
+
+.mainMenu {
+    display: flex;
+    justify-content: space-between ; 
+    padding: 27px 24px;
+
+    &__logo {
+        width: 170px;
+    }
+
+    &__iconeMenu {
+        
+    }
+
+    &__list {
+        display: none;
+        
+    }
+
+    &__listElement {
+
+    }
+    
+    &__link {
+
+    }
+}
+
+
